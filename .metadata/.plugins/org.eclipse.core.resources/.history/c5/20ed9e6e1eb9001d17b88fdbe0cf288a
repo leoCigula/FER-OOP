@@ -1,0 +1,10 @@
+package hr.fer.oop.izdrkavanja.simple;
+
+public class Zadatak2 {
+
+	public static void main(String[] args) {
+			
+		int First5=(int) (Math.PI * 1e5);
+	}
+
+}
