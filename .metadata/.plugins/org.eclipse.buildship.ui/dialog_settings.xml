@@ -3,4 +3,8 @@
 	<section name="org.eclipse.buildship.ui.wizard.project.import">
 		<item key="project_location" value="E:\FER\SEM 2\FER-OOP\Lectures-master\02_ObjectCreation"/>
 	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="E:\FER\SEM 2\FER-OOP\PreparatoryExamplesLab1"/>
+		<item key="use_default_location" value="true"/>
+	</section>
 </section>
