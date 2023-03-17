@@ -14,4 +14,5 @@
     <fullyQualifiedTypeName name="hr.fer.oop.homework.simple.FoodType"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
 </qualifiedTypeNameHistroy>
